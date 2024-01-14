@@ -37,5 +37,5 @@ This is a simple console-based Tic Tac Toe game implemented in C++.
 
 ## Code Structure
 
-- `main.cpp`: Contains the main game logic.
+- `Source.cpp`: Contains the main game logic.
 - `README.md`: Documentation file (you're reading it now).
