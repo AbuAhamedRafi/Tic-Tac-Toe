@@ -1,5 +1,3 @@
-# Tic-Tac-Toe
-Created a simple Tic Tac Toe game using C++ 
 # Tic Tac Toe Game in C++
 
 This is a simple console-based Tic Tac Toe game implemented in C++.
